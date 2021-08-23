@@ -1,0 +1,29 @@
+드디어 Microsoft Azure Fundamental (AZ-900) 시험에 합격했습니다. 한국 MS 본사에서 1일 짜리 강의를 듣고나서 조금 공부를 해보니 그다지 어렵지 않다고 판단하여 덤프를 보지 않고 섣불리 응시했다가 아쉽게 커트라인 700점에 못미쳐 탈락했다가 덤프로 문제 유형을 파악하고 재응시하여 합격한 케이스인데, 이 시험에 대해서 평가하자면 일단 문제를 굉장히 꼬아놔서 대충 공부하고 응시했다가는 낭패를 볼 수 있다는 점입니다. 이 시험 자체가 어떤 원리를 깊이 이해해야 한다기보다 Azure Portal에서 제공하는 전반적인 서비스를 숙지하는데 많은 시간과 공을 들여야 합니다. 왜냐하면 Compute, Storage, VM, Network, Security, DB 등 현존하는 온갖 IT 기술들을 다 갖다 쓸 수 있도록 모아놓은게 Azure 이기 때문에 모든 서비스에 대한 원리를 깊이 알기까지는 사실상 어렵고 해당 서비스들이 전반적으로 어떠한 기능과 특징을 가지고 있는지, 유사한 서비스들 간의 차이점 정도만 알고 있으면 됩니다. 본인은 영어로 시험을 보았는데 MS 본사 강의 참가했을 때도 강사(MS 직원)가 얘기한 부분이지만 가능하다면 한글보다 영어로 응시하는게 좋다고 합니다. 왜냐하면 서비스 이름들이 약간 이상하게 번역되어서 오히려 한글 시험이 문제를 풀기에 더 헷갈릴 수 있고 한글 덤프는 구하기도 어렵기 때문입니다.
+
+
+
+합격을 위해 아래의 단계를 거쳤으며 참고로 본인은 퍼블릭 클라우드 쪽 실무 경험은 거의 없고 서버, DB 쪽 경험만 약간 있는 정도입니다.
+
+
+한국 MS 본사 Azure Training Day 1일 무료 교육 - https://www.microsoft.com/ko-kr/azuretrainingday
+Microsoft Learn - https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
+Azure 실습 매뉴얼 - https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
+MS Azure MVP의 Azure 기초 강좌 - https://educast.com/course/other-cert/ZB88
+MS 공식 가이드북 (약간만 읽음)
+PC 버전 - https://download.microsoft.com/DOWNLOAD/2/C/A/2CA4DC8E-021C-4D56-8529-DF4F71FF4A1B/9780735697225.PDF
+모바일 버전 - https://download.microsoft.com/download/6/6/2/662DD05E-BAD7-46EF-9431-135F9BAE6332/9781509302963_Microsoft%20Azure%20Essentials%20Fundamentals%20of%20Azure%202nd%20ed%20mobile.pdf
+시험 덤프 자료 - 아래 첨부된 pdf 파일 마지막 장에 나열, 구글에서 검색
+
+
+
+
+아래 파일은 시험 준비를 하면서 만든 Azure에 대한 가장 핵심적이고 기본적인 내용들을 정리해놓은 pdf 파일인데 사실 이것만 봐서는 합격하기가 어렵고 먼저 위에 나열한 다양한 자료와 함께 공부를 한 다음 덤프로 완벽하게 준비하는 방식을 추천 드립니다. 어차피 실무에서 써먹으려면 덤프만 봐서는 한계가 있기 때문에 공부와 실습을 꼭 해보는 것이 좋습니다.
+
+
+
+
+
+
+
+ MS Azure Fundamentals AZ-900.pdf
+
